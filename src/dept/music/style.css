@@ -834,11 +834,11 @@ html {
 h3,h4{
   font-family: 'Merienda', cursive;
 }
-div h3
-{
-  
+.in4mals_logo{
+	position: absolute;
+	top: 2%;
+	left: 1%;
 }
-
 
 .glow {
   font-size: 80px;
@@ -879,7 +879,7 @@ div h3
     width: 12vw;
     border-radius: 50%;
       position: absolute;
-      top: 50px;
-      left: 60px;
+      top: 10px;
+      left: 10px;
       z-index: 5;
 }
